@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.npu.fastexcel.ExcelException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="edu.npu.fastexcel.Workbook"/>
+<fullyQualifiedTypeName name="edu.npu.fastexcel.FastExcel"/>
+<fullyQualifiedTypeName name="edu.npu.fastexcel.Sheet"/>
+<fullyQualifiedTypeName name="ExRW.AllRW"/>
+<fullyQualifiedTypeName name="edu.npu.fastexcel.BIFFSetting"/>
+</qualifiedTypeNameHistroy>
